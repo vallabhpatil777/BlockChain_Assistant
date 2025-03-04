@@ -1,0 +1,10 @@
+
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+python-dotenv
+streamlit
+fastapi
+uvicorn
+autogen
